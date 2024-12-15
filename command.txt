@@ -1,0 +1,4 @@
+python -m venv env #make a env 
+env\Scripts\activate #activate the env 
+make a requirements.txt file 
+pip install -r requirements.txt #install the required package in the venv
